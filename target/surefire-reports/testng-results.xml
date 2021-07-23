@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[[INFO ] [2021-07-23 00:38:48,392]  -------------------------- PASSED -------------------------- 
+]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-07-23 00:38:58,276]  -------------------------- PASSED -------------------------- 
+]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="46247" started-at="2021-07-22T17:38:13Z" finished-at="2021-07-22T17:38:59Z">
+    <groups>
+    </groups>
+    <test name="Run on firefox" duration-ms="46247" started-at="2021-07-22T17:38:13Z" finished-at="2021-07-22T17:38:59Z">
+      <class name="com.nopcommerce.user.Level_15_Register_Login_Pattern_Object">
+        <test-method status="PASS" signature="deleteAllFileInReportNGScreenShot()[pri:0, instance:com.nopcommerce.user.Level_15_Register_Login_Pattern_Object@5ca17ab0]" name="deleteAllFileInReportNGScreenShot" is-config="true" duration-ms="42" started-at="2021-07-22T17:38:13Z" finished-at="2021-07-22T17:38:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteAllFileInReportNGScreenShot -->
+        <test-method status="PASS" signature="beforeClass(java.lang.String, java.lang.String)[pri:0, instance:com.nopcommerce.user.Level_15_Register_Login_Pattern_Object@5ca17ab0]" name="beforeClass" is-config="true" duration-ms="25557" started-at="2021-07-22T17:38:13Z" finished-at="2021-07-22T17:38:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://demo.nopcommerce.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="User_01_Register(java.lang.reflect.Method)[pri:0, instance:com.nopcommerce.user.Level_15_Register_Login_Pattern_Object@5ca17ab0]" name="User_01_Register" duration-ms="12068" started-at="2021-07-22T17:38:39Z" finished-at="2021-07-22T17:38:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.nopcommerce.user.Level_15_Register_Login_Pattern_Object.User_01_Register(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[[INFO ] [2021-07-23 00:38:48,392]  -------------------------- PASSED -------------------------- 
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- User_01_Register -->
+        <test-method status="PASS" signature="User_02_Login(java.lang.reflect.Method)[pri:0, instance:com.nopcommerce.user.Level_15_Register_Login_Pattern_Object@5ca17ab0]" name="User_02_Login" duration-ms="6811" started-at="2021-07-22T17:38:51Z" finished-at="2021-07-22T17:38:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.nopcommerce.user.Level_15_Register_Login_Pattern_Object.User_02_Login(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[[INFO ] [2021-07-23 00:38:58,276]  -------------------------- PASSED -------------------------- 
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- User_02_Login -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.nopcommerce.user.Level_15_Register_Login_Pattern_Object@5ca17ab0]" name="afterClass" is-config="true" duration-ms="1439" started-at="2021-07-22T17:38:58Z" finished-at="2021-07-22T17:38:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.nopcommerce.user.Level_15_Register_Login_Pattern_Object -->
+    </test> <!-- Run on firefox -->
+  </suite> <!-- Suite -->
+</testng-results>

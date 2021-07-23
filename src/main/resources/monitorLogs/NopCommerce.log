@@ -1,0 +1,467 @@
+[INFO ] [2021-07-09 13:20:33,074] Pre-condition - Step 1: Open Browser: firefoxand navigate tohttps://demo.nopcommerce.com/
+[INFO ] [2021-07-09 13:20:43,940] User_01_Register - Step 01: Mo trang Homepage
+[INFO ] [2021-07-09 13:20:43,945] User_01_Register - Step 02: Click to Register Link
+[INFO ] [2021-07-09 13:20:46,234] User_01_Register - Step 03: Enter to first Textbox
+[INFO ] [2021-07-09 13:20:46,347] User_01_Register - Step 04: Enter to Lastname Textbox
+[INFO ] [2021-07-09 13:20:46,456] User_01_Register - Step 05: Enter to Email TextboxMessi98008@barca.com
+[INFO ] [2021-07-09 13:20:46,568] User_01_Register - Step 06: Enter to Password
+[INFO ] [2021-07-09 13:20:46,667] User_01_Register - Step 07: Enter to Confirm password
+[INFO ] [2021-07-09 13:20:46,793] User_01_Register - Step 08: Click to Register Button
+[INFO ] [2021-07-09 13:20:49,303] User_01_Register - Step 09: Verify Success Message Displayed
+[INFO ] [2021-07-09 13:20:49,392] User_01_Register - Step 10: Click to Logout Link
+[INFO ] [2021-07-09 13:20:50,364] User_02_Login - Step 01: Click to Login Link
+[INFO ] [2021-07-09 13:20:51,763] User_02_Login - Step 02: Enter to Email textbox
+[INFO ] [2021-07-09 13:20:51,872] User_02_Login - Step 03: Enter to Password
+[INFO ] [2021-07-09 13:20:51,992] User_02_Login - Step 04: Click to Login button
+[INFO ] [2021-07-09 13:20:53,876] User_02_Login - Step 05: Verify Myaccount Link displayed
+[INFO ] [2021-07-09 13:20:53,979] Post-condition - Step 01: Close browser/driver
+[INFO ] [2021-07-09 13:21:16,094] Pre-condition - Step 1: Open Browser: firefox and navigate to https://demo.nopcommerce.com/
+[INFO ] [2021-07-09 13:21:26,536] User_01_Register - Step 01: Mo trang Homepage
+[INFO ] [2021-07-09 13:21:26,541] User_01_Register - Step 02: Click to Register Link
+[INFO ] [2021-07-09 13:21:28,932] User_01_Register - Step 03: Enter to first Textbox
+[INFO ] [2021-07-09 13:21:29,120] User_01_Register - Step 04: Enter to Lastname Textbox
+[INFO ] [2021-07-09 13:21:29,243] User_01_Register - Step 05: Enter to Email TextboxMessi82420@barca.com
+[INFO ] [2021-07-09 13:21:29,442] User_01_Register - Step 06: Enter to Password
+[INFO ] [2021-07-09 13:21:29,564] User_01_Register - Step 07: Enter to Confirm password
+[INFO ] [2021-07-09 13:21:29,686] User_01_Register - Step 08: Click to Register Button
+[INFO ] [2021-07-09 13:21:31,969] User_01_Register - Step 09: Verify Success Message Displayed
+[INFO ] [2021-07-09 13:21:32,064] User_01_Register - Step 10: Click to Logout Link
+[INFO ] [2021-07-09 13:21:33,688] User_02_Login - Step 01: Click to Login Link
+[INFO ] [2021-07-09 13:21:34,711] User_02_Login - Step 02: Enter to Email textbox
+[INFO ] [2021-07-09 13:21:34,835] User_02_Login - Step 03: Enter to Password
+[INFO ] [2021-07-09 13:21:34,924] User_02_Login - Step 04: Click to Login button
+[INFO ] [2021-07-09 13:21:36,559] User_02_Login - Step 05: Verify Myaccount Link displayed
+[INFO ] [2021-07-09 13:21:36,663] Post-condition - Step 01: Close browser/driver
+[INFO ] [2021-07-09 13:22:23,188] Pre-condition - Step 1: Open Browser: 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-07-09 13:22:34,277] User_01_Register - Step 01: Mo trang Homepage
+[INFO ] [2021-07-09 13:22:34,283] User_01_Register - Step 02: Click to Register Link
+[INFO ] [2021-07-09 13:22:36,403] User_01_Register - Step 03: Enter to first Textbox
+[INFO ] [2021-07-09 13:22:36,522] User_01_Register - Step 04: Enter to Lastname Textbox
+[INFO ] [2021-07-09 13:22:36,617] User_01_Register - Step 05: Enter to Email TextboxMessi8047@barca.com
+[INFO ] [2021-07-09 13:22:36,733] User_01_Register - Step 06: Enter to Password
+[INFO ] [2021-07-09 13:22:36,847] User_01_Register - Step 07: Enter to Confirm password
+[INFO ] [2021-07-09 13:22:36,970] User_01_Register - Step 08: Click to Register Button
+[INFO ] [2021-07-09 13:22:40,606] User_01_Register - Step 09: Verify Success Message Displayed
+[INFO ] [2021-07-09 13:22:40,696] User_01_Register - Step 10: Click to Logout Link
+[INFO ] [2021-07-09 13:22:42,284] User_02_Login - Step 01: Click to Login Link
+[INFO ] [2021-07-09 13:22:43,706] User_02_Login - Step 02: Enter to Email textbox
+[INFO ] [2021-07-09 13:22:43,806] User_02_Login - Step 03: Enter to Password
+[INFO ] [2021-07-09 13:22:43,913] User_02_Login - Step 04: Click to Login button
+[INFO ] [2021-07-09 13:22:46,795] User_02_Login - Step 05: Verify Myaccount Link displayed
+[INFO ] [2021-07-09 13:22:46,900] Post-condition - Step 01: Close browser/driver
+[INFO ] [2021-07-09 13:29:29,474] Pre-condition - Step 1: Open Browser: 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-07-09 13:29:40,559] User_01_Register - Step 01: Mo trang Homepage
+[INFO ] [2021-07-09 13:29:40,564] User_01_Register - Step 02: Click to Register Link
+[INFO ] [2021-07-09 13:29:43,143] User_01_Register - Step 03: Enter to first Textbox
+[INFO ] [2021-07-09 13:29:43,260] User_01_Register - Step 04: Enter to Lastname Textbox
+[INFO ] [2021-07-09 13:29:43,374] User_01_Register - Step 05: Enter to Email TextboxMessi11047@barca.com
+[INFO ] [2021-07-09 13:29:43,472] User_01_Register - Step 06: Enter to Password
+[INFO ] [2021-07-09 13:29:43,572] User_01_Register - Step 07: Enter to Confirm password
+[INFO ] [2021-07-09 13:29:43,679] User_01_Register - Step 08: Click to Register Button
+[INFO ] [2021-07-09 13:29:45,594] User_01_Register - Step 09: Verify Success Message Displayed
+[INFO ] [2021-07-09 13:29:45,689]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-07-09 13:29:45,691] User_01_Register - Step 10: Click to Logout Link
+[INFO ] [2021-07-09 13:29:47,909] User_02_Login - Step 01: Click to Login Link
+[INFO ] [2021-07-09 13:29:48,435] User_02_Login - Step 02: Enter to Email textbox
+[INFO ] [2021-07-09 13:29:48,544] User_02_Login - Step 03: Enter to Password
+[INFO ] [2021-07-09 13:29:48,633] User_02_Login - Step 04: Click to Login button
+[INFO ] [2021-07-09 13:29:50,166] User_02_Login - Step 05: Verify Myaccount Link displayed
+[INFO ] [2021-07-09 13:29:50,261]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-07-09 13:29:50,264] Post-condition - Step 01: Close browser/driver
+[INFO ] [2021-07-09 13:49:41,817] Pre-condition - Step 1: Open Browser: 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-07-09 13:49:52,986] User_01_Register - Step 01: Mo trang Homepage
+[INFO ] [2021-07-09 13:49:52,991] User_01_Register - Step 02: Click to Register Link
+[INFO ] [2021-07-09 13:49:55,455] User_01_Register - Step 03: Enter to first Textbox
+[INFO ] [2021-07-09 13:49:55,643] User_01_Register - Step 04: Enter to Lastname Textbox
+[INFO ] [2021-07-09 13:49:55,759] User_01_Register - Step 05: Enter to Email TextboxMessi16038@barca.com
+[INFO ] [2021-07-09 13:49:55,872] User_01_Register - Step 06: Enter to Password
+[INFO ] [2021-07-09 13:49:55,972] User_01_Register - Step 07: Enter to Confirm password
+[INFO ] [2021-07-09 13:49:56,081] User_01_Register - Step 08: Click to Register Button
+[INFO ] [2021-07-09 13:49:58,185] User_01_Register - Step 09: Verify Success Message Displayed
+[INFO ] [2021-07-09 13:49:58,283]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-07-09 13:49:58,285] User_01_Register - Step 10: Click to Logout Link
+[INFO ] [2021-07-09 13:50:00,992] User_02_Login - Step 01: Click to Login Link
+[INFO ] [2021-07-09 13:50:02,296] User_02_Login - Step 02: Enter to Email textbox
+[INFO ] [2021-07-09 13:50:02,405] User_02_Login - Step 03: Enter to Password
+[INFO ] [2021-07-09 13:50:02,513] User_02_Login - Step 04: Click to Login button
+[INFO ] [2021-07-09 13:50:04,505] User_02_Login - Step 05: Verify Myaccount Link displayed
+[INFO ] [2021-07-09 13:50:04,608]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-07-09 13:50:04,610] Post-condition - Step 01: Close browser/driver
+[INFO ] [2021-07-09 13:55:20,479] Pre-condition - Step 1: Open Browser: 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-07-09 13:55:32,504] User_01_Register - Step 01: Mo trang Homepage
+[INFO ] [2021-07-09 13:55:32,509] User_01_Register - Step 02: Click to Register Link
+[INFO ] [2021-07-09 13:55:34,582] User_01_Register - Step 03: Enter to first Textbox
+[INFO ] [2021-07-09 13:55:34,744] User_01_Register - Step 04: Enter to Lastname Textbox
+[INFO ] [2021-07-09 13:55:34,841] User_01_Register - Step 05: Enter to Email TextboxMessi33576@barca.com
+[INFO ] [2021-07-09 13:55:34,952] User_01_Register - Step 06: Enter to Password
+[INFO ] [2021-07-09 13:55:35,039] User_01_Register - Step 07: Enter to Confirm password
+[INFO ] [2021-07-09 13:55:35,133] User_01_Register - Step 08: Click to Register Button
+[INFO ] [2021-07-09 13:55:37,020] User_01_Register - Step 09: Verify Success Message Displayed
+[INFO ] [2021-07-09 13:55:37,100]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-07-09 13:55:37,102] User_01_Register - Step 10: Click to Logout Link
+[INFO ] [2021-07-09 13:55:38,562] User_02_Login - Step 01: Click to Login Link
+[INFO ] [2021-07-09 13:55:39,184] User_02_Login - Step 02: Enter to Email textbox
+[INFO ] [2021-07-09 13:55:39,285] User_02_Login - Step 03: Enter to Password
+[INFO ] [2021-07-09 13:55:39,393] User_02_Login - Step 04: Click to Login button
+[INFO ] [2021-07-09 13:55:40,748] User_02_Login - Step 05: Verify Myaccount Link displayed
+[INFO ] [2021-07-09 13:55:40,848]  -------------------------- FAILED -------------------------- 
+[INFO ] [2021-07-09 13:55:40,860] Post-condition - Step 01: Close browser/driver
+[INFO ] [2021-07-09 13:56:47,665] Pre-condition - Step 1: Open Browser: 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-07-09 13:57:00,499] User_01_Register - Step 01: Mo trang Homepage
+[INFO ] [2021-07-09 13:57:00,504] User_01_Register - Step 02: Click to Register Link
+[INFO ] [2021-07-09 13:57:02,961] User_01_Register - Step 03: Enter to first Textbox
+[INFO ] [2021-07-09 13:57:03,593] User_01_Register - Step 04: Enter to Lastname Textbox
+[INFO ] [2021-07-09 13:57:03,717] User_01_Register - Step 05: Enter to Email TextboxMessi1444@barca.com
+[INFO ] [2021-07-09 13:57:03,830] User_01_Register - Step 06: Enter to Password
+[INFO ] [2021-07-09 13:57:03,930] User_01_Register - Step 07: Enter to Confirm password
+[INFO ] [2021-07-09 13:57:04,037] User_01_Register - Step 08: Click to Register Button
+[INFO ] [2021-07-09 13:57:06,383] User_01_Register - Step 09: Verify Success Message Displayed
+[INFO ] [2021-07-09 13:57:06,484]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-07-09 13:57:06,486] User_01_Register - Step 10: Click to Logout Link
+[INFO ] [2021-07-09 13:57:07,915] User_02_Login - Step 01: Click to Login Link
+[INFO ] [2021-07-09 13:57:08,542] User_02_Login - Step 02: Enter to Email textbox
+[INFO ] [2021-07-09 13:57:08,669] User_02_Login - Step 03: Enter to Password
+[INFO ] [2021-07-09 13:57:08,796] User_02_Login - Step 04: Click to Login button
+[INFO ] [2021-07-09 13:57:10,910] User_02_Login - Step 05: Verify Myaccount Link displayed
+[INFO ] [2021-07-09 13:57:11,035]  -------------------------- FAILED -------------------------- 
+[INFO ] [2021-07-09 13:57:11,041] Post-condition - Step 01: Close browser/driver
+[INFO ] [2021-07-09 14:01:39,088] Pre-condition - Step 1: Open Browser: 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-07-09 14:01:50,621] User_01_Register - Step 01: Mo trang Homepage
+[INFO ] [2021-07-09 14:01:50,626] User_01_Register - Step 02: Click to Register Link
+[INFO ] [2021-07-09 14:01:53,029] User_01_Register - Step 03: Enter to first Textbox
+[INFO ] [2021-07-09 14:01:53,196] User_01_Register - Step 04: Enter to Lastname Textbox
+[INFO ] [2021-07-09 14:01:53,308] User_01_Register - Step 05: Enter to Email TextboxMessi20726@barca.com
+[INFO ] [2021-07-09 14:01:53,424] User_01_Register - Step 06: Enter to Password
+[INFO ] [2021-07-09 14:01:53,538] User_01_Register - Step 07: Enter to Confirm password
+[INFO ] [2021-07-09 14:01:53,631] User_01_Register - Step 08: Click to Register Button
+[INFO ] [2021-07-09 14:01:56,013] User_01_Register - Step 09: Verify Success Message Displayed
+[INFO ] [2021-07-09 14:01:56,101]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-07-09 14:01:56,103] User_01_Register - Step 10: Click to Logout Link
+[INFO ] [2021-07-09 14:01:57,873] User_02_Login - Step 01: Click to Login Link
+[INFO ] [2021-07-09 14:01:58,590] User_02_Login - Step 02: Enter to Email textbox
+[INFO ] [2021-07-09 14:01:58,702] User_02_Login - Step 03: Enter to Password
+[INFO ] [2021-07-09 14:01:58,809] User_02_Login - Step 04: Click to Login button
+[INFO ] [2021-07-09 14:02:01,465] User_02_Login - Step 05: Verify Myaccount Link displayed
+[INFO ] [2021-07-09 14:02:01,570]  -------------------------- FAILED -------------------------- 
+[INFO ] [2021-07-09 14:02:01,574] Post-condition - Step 01: Close browser/driver
+[INFO ] [2021-07-09 14:21:49,787] Pre-condition - Step 1: Open Browser: 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-07-09 14:22:01,729] User_01_Register - Step 01: Mo trang Homepage
+[INFO ] [2021-07-09 14:22:01,734] User_01_Register - Step 02: Click to Register Link
+[INFO ] [2021-07-09 14:22:03,813] User_01_Register - Step 03: Enter to first Textbox
+[INFO ] [2021-07-09 14:22:03,952] User_01_Register - Step 04: Enter to Lastname Textbox
+[INFO ] [2021-07-09 14:22:04,068] User_01_Register - Step 05: Enter to Email TextboxMessi1067@barca.com
+[INFO ] [2021-07-09 14:22:04,185] User_01_Register - Step 06: Enter to Password
+[INFO ] [2021-07-09 14:22:04,300] User_01_Register - Step 07: Enter to Confirm password
+[INFO ] [2021-07-09 14:22:04,404] User_01_Register - Step 08: Click to Register Button
+[INFO ] [2021-07-09 14:22:05,796] User_01_Register - Step 09: Verify Success Message Displayed
+[INFO ] [2021-07-09 14:22:05,878]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-07-09 14:22:05,881] User_01_Register - Step 10: Click to Logout Link
+[INFO ] [2021-07-09 14:22:07,590] User_02_Login - Step 01: Click to Login Link
+[INFO ] [2021-07-09 14:22:08,479] User_02_Login - Step 02: Enter to Email textbox
+[INFO ] [2021-07-09 14:22:08,609] User_02_Login - Step 03: Enter to Password
+[INFO ] [2021-07-09 14:22:08,700] User_02_Login - Step 04: Click to Login button
+[INFO ] [2021-07-09 14:22:10,735] User_02_Login - Step 05: Verify Myaccount Link displayed
+[INFO ] [2021-07-09 14:22:10,829]  -------------------------- FAILED -------------------------- 
+[INFO ] [2021-07-09 14:22:10,833] Post-condition - Step 01: Close browser/driver
+[INFO ] [2021-07-13 15:57:22,048]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-07-13 15:57:30,870]  -------------------------- FAILED -------------------------- 
+[INFO ] [2021-07-13 16:01:34,239]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-07-13 16:01:38,447]  -------------------------- FAILED -------------------------- 
+[INFO ] [2021-07-13 16:05:24,882]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-07-13 16:05:31,856]  -------------------------- FAILED -------------------------- 
+[INFO ] [2021-07-14 13:31:28,540] Pre-condition - Step 1: Open Browser: 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-07-14 13:32:24,609] User_01_Register - Step 01: Mo trang Homepage
+[INFO ] [2021-07-14 13:32:24,609] User_01_Register - Step 02: Click to Register Link
+[INFO ] [2021-07-14 13:32:28,705] User_01_Register - Step 03: Enter to first Textbox
+[INFO ] [2021-07-14 13:32:29,215] User_01_Register - Step 04: Enter to Lastname Textbox
+[INFO ] [2021-07-14 13:32:29,406] User_01_Register - Step 05: Enter to Email TextboxMessi44451@barca.com
+[INFO ] [2021-07-14 13:32:29,544] User_01_Register - Step 06: Enter to Password
+[INFO ] [2021-07-14 13:32:29,660] User_01_Register - Step 07: Enter to Confirm password
+[INFO ] [2021-07-14 13:32:29,745] User_01_Register - Step 08: Click to Register Button
+[INFO ] [2021-07-14 13:32:32,631] User_01_Register - Step 09: Verify Success Message Displayed
+[INFO ] [2021-07-14 13:32:32,716]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-07-14 13:32:32,731] User_01_Register - Step 10: Click to Logout Link
+[INFO ] [2021-07-14 13:34:44,683] Pre-condition - Step 1: Open Browser: 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-07-14 13:34:59,528] User_01_Register - Step 01: Mo trang Homepage
+[INFO ] [2021-07-14 13:34:59,530] User_01_Register - Step 02: Click to Register Link
+[INFO ] [2021-07-14 13:35:06,876] User_01_Register - Step 03: Enter to first Textbox
+[INFO ] [2021-07-14 13:35:06,984] User_01_Register - Step 04: Enter to Lastname Textbox
+[INFO ] [2021-07-14 13:35:07,094] User_01_Register - Step 05: Enter to Email TextboxMessi88734@barca.com
+[INFO ] [2021-07-14 13:35:07,228] User_01_Register - Step 06: Enter to Password
+[INFO ] [2021-07-14 13:35:07,323] User_01_Register - Step 07: Enter to Confirm password
+[INFO ] [2021-07-14 13:35:07,416] User_01_Register - Step 08: Click to Register Button
+[INFO ] [2021-07-14 13:35:12,451] User_01_Register - Step 09: Verify Success Message Displayed
+[INFO ] [2021-07-14 13:35:12,547]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-07-14 13:35:12,563] User_01_Register - Step 10: Click to Logout Link
+[INFO ] [2021-07-14 13:35:14,506] User_02_Login - Step 01: Click to Login Link
+[INFO ] [2021-07-14 13:35:17,128] User_02_Login - Step 02: Enter to Email textbox
+[INFO ] [2021-07-14 13:35:17,246] User_02_Login - Step 03: Enter to Password
+[INFO ] [2021-07-14 13:35:17,346] User_02_Login - Step 04: Click to Login button
+[INFO ] [2021-07-14 13:35:20,710] User_02_Login - Step 05: Verify Myaccount Link displayed
+[INFO ] [2021-07-14 13:35:20,811]  -------------------------- FAILED -------------------------- 
+[INFO ] [2021-07-14 13:35:21,027] Post-condition - Step 01: Close browser/driver
+[INFO ] [2021-07-14 14:02:44,762] Pre-condition - Step 1: Open Browser: 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-07-14 14:20:42,051] Pre-condition - Step 1: Open Browser: 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-07-14 14:20:55,113] User_01_Register - Step 01: Mo trang Homepage
+[INFO ] [2021-07-14 14:20:55,115] User_01_Register - Step 02: Click to Register Link
+[INFO ] [2021-07-14 14:20:58,329] User_01_Register - Step 03: Enter to first Textbox
+[INFO ] [2021-07-14 14:20:58,477] User_01_Register - Step 04: Enter to Lastname Textbox
+[INFO ] [2021-07-14 14:20:58,589] User_01_Register - Step 05: Enter to Email TextboxMessi88351@barca.com
+[INFO ] [2021-07-14 14:20:58,708] User_01_Register - Step 06: Enter to Password
+[INFO ] [2021-07-14 14:20:58,832] User_01_Register - Step 07: Enter to Confirm password
+[INFO ] [2021-07-14 14:20:58,928] User_01_Register - Step 08: Click to Register Button
+[INFO ] [2021-07-14 14:21:02,186] User_01_Register - Step 09: Verify Success Message Displayed
+[INFO ] [2021-07-14 14:21:02,297]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-07-14 14:21:02,300] User_01_Register - Step 10: Click to Logout Link
+[INFO ] [2021-07-14 14:21:07,334] User_02_Login - Step 01: Click to Login Link
+[INFO ] [2021-07-14 14:21:09,511] User_02_Login - Step 02: Enter to Email textbox
+[INFO ] [2021-07-14 14:21:09,642] User_02_Login - Step 03: Enter to Password
+[INFO ] [2021-07-14 14:21:09,736] User_02_Login - Step 04: Click to Login button
+[INFO ] [2021-07-14 14:21:13,298] User_02_Login - Step 05: Verify Myaccount Link displayed
+[INFO ] [2021-07-14 14:21:13,390]  -------------------------- FAILED -------------------------- 
+[INFO ] [2021-07-14 14:21:13,555] Post-condition - Step 01: Close browser/driver
+[INFO ] [2021-07-14 14:26:07,801] Pre-condition - Step 1: Open Browser: 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-07-14 14:26:17,846] User_01_Register - Step 01: Mo trang Homepage
+[INFO ] [2021-07-14 14:26:17,847] User_01_Register - Step 02: Click to Register Link
+[INFO ] [2021-07-14 14:26:19,370] User_01_Register - Step 03: Enter to first Textbox
+[INFO ] [2021-07-14 14:26:19,488] User_01_Register - Step 04: Enter to Lastname Textbox
+[INFO ] [2021-07-14 14:26:19,632] User_01_Register - Step 05: Enter to Email TextboxMessi89724@barca.com
+[INFO ] [2021-07-14 14:26:19,761] User_01_Register - Step 06: Enter to Password
+[INFO ] [2021-07-14 14:26:19,860] User_01_Register - Step 07: Enter to Confirm password
+[INFO ] [2021-07-14 14:26:19,970] User_01_Register - Step 08: Click to Register Button
+[INFO ] [2021-07-14 14:26:22,082] User_01_Register - Step 09: Verify Success Message Displayed
+[INFO ] [2021-07-14 14:26:22,179]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-07-14 14:26:22,182] User_01_Register - Step 10: Click to Logout Link
+[INFO ] [2021-07-14 14:30:00,847] Pre-condition - Step 1: Open Browser: 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-07-14 14:30:12,114] User_01_Register - Step 01: Mo trang Homepage
+[INFO ] [2021-07-14 14:30:12,116] User_01_Register - Step 02: Click to Register Link
+[INFO ] [2021-07-14 14:30:15,071] User_01_Register - Step 03: Enter to first Textbox
+[INFO ] [2021-07-14 14:30:15,195] User_01_Register - Step 04: Enter to Lastname Textbox
+[INFO ] [2021-07-14 14:30:15,325] User_01_Register - Step 05: Enter to Email TextboxMessi80159@barca.com
+[INFO ] [2021-07-14 14:30:15,442] User_01_Register - Step 06: Enter to Password
+[INFO ] [2021-07-14 14:30:15,554] User_01_Register - Step 07: Enter to Confirm password
+[INFO ] [2021-07-14 14:30:15,669] User_01_Register - Step 08: Click to Register Button
+[INFO ] [2021-07-14 14:30:18,691] User_01_Register - Step 09: Verify Success Message Displayed
+[INFO ] [2021-07-14 14:30:18,784]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-07-14 14:30:18,786] User_01_Register - Step 10: Click to Logout Link
+[INFO ] [2021-07-14 14:33:16,565] Pre-condition - Step 1: Open Browser: 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-07-14 14:36:27,875] User_01_Register - Step 01: Mo trang Homepage
+[INFO ] [2021-07-14 14:36:27,877] User_01_Register - Step 02: Click to Register Link
+[INFO ] [2021-07-14 14:37:17,618] User_01_Register - Step 03: Enter to first Textbox
+[INFO ] [2021-07-14 14:37:17,719] User_01_Register - Step 04: Enter to Lastname Textbox
+[INFO ] [2021-07-14 14:37:17,816] User_01_Register - Step 05: Enter to Email TextboxMessi26589@barca.com
+[INFO ] [2021-07-14 14:37:17,941] User_01_Register - Step 06: Enter to Password
+[INFO ] [2021-07-14 14:37:18,029] User_01_Register - Step 07: Enter to Confirm password
+[INFO ] [2021-07-14 14:37:18,107] User_01_Register - Step 08: Click to Register Button
+[INFO ] [2021-07-14 14:37:21,661] User_01_Register - Step 09: Verify Success Message Displayed
+[INFO ] [2021-07-14 14:37:21,740]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-07-14 14:37:21,742] User_01_Register - Step 10: Click to Logout Link
+[INFO ] [2021-07-14 14:38:51,581] Pre-condition - Step 1: Open Browser: 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-07-14 14:39:03,080] User_01_Register - Step 01: Mo trang Homepage
+[INFO ] [2021-07-14 14:39:03,081] User_01_Register - Step 02: Click to Register Link
+[INFO ] [2021-07-14 14:39:06,517] User_01_Register - Step 03: Enter to first Textbox
+[INFO ] [2021-07-14 14:39:06,637] User_01_Register - Step 04: Enter to Lastname Textbox
+[INFO ] [2021-07-14 14:39:06,751] User_01_Register - Step 05: Enter to Email TextboxMessi67949@barca.com
+[INFO ] [2021-07-14 14:39:06,870] User_01_Register - Step 06: Enter to Password
+[INFO ] [2021-07-14 14:39:06,980] User_01_Register - Step 07: Enter to Confirm password
+[INFO ] [2021-07-14 14:39:07,072] User_01_Register - Step 08: Click to Register Button
+[INFO ] [2021-07-14 14:39:12,415] User_01_Register - Step 09: Verify Success Message Displayed
+[INFO ] [2021-07-14 14:39:18,821]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-07-14 14:39:18,824] User_01_Register - Step 10: Click to Logout Link
+[INFO ] [2021-07-14 14:39:23,513] User_02_Login - Step 01: Click to Login Link
+[INFO ] [2021-07-14 14:39:25,798] User_02_Login - Step 02: Enter to Email textbox
+[INFO ] [2021-07-14 14:39:25,926] User_02_Login - Step 03: Enter to Password
+[INFO ] [2021-07-14 14:39:26,019] User_02_Login - Step 04: Click to Login button
+[INFO ] [2021-07-14 14:39:29,395] User_02_Login - Step 05: Verify Myaccount Link displayed
+[INFO ] [2021-07-14 14:39:29,491]  -------------------------- FAILED -------------------------- 
+[INFO ] [2021-07-14 14:39:29,652] Post-condition - Step 01: Close browser/driver
+[INFO ] [2021-07-14 14:53:15,160] Pre-condition - Step 1: Open Browser: 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-07-14 14:53:27,779] User_01_Register - Step 01: Mo trang Homepage
+[INFO ] [2021-07-14 14:53:27,787] User_01_Register - Step 02: Click to Register Link
+[INFO ] [2021-07-14 14:53:31,586] User_01_Register - Step 03: Enter to first Textbox
+[INFO ] [2021-07-14 14:53:31,742] User_01_Register - Step 04: Enter to Lastname Textbox
+[INFO ] [2021-07-14 14:53:31,856] User_01_Register - Step 05: Enter to Email TextboxMessi44898@barca.com
+[INFO ] [2021-07-14 14:53:31,973] User_01_Register - Step 06: Enter to Password
+[INFO ] [2021-07-14 14:53:32,084] User_01_Register - Step 07: Enter to Confirm password
+[INFO ] [2021-07-14 14:53:32,177] User_01_Register - Step 08: Click to Register Button
+[INFO ] [2021-07-14 14:53:36,586] User_01_Register - Step 09: Verify Success Message Displayed
+[INFO ] [2021-07-14 14:53:36,669]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-07-14 14:53:36,673] User_01_Register - Step 10: Click to Logout Link
+[INFO ] [2021-07-14 14:53:40,840] User_02_Login - Step 01: Click to Login Link
+[INFO ] [2021-07-14 14:53:43,059] User_02_Login - Step 02: Enter to Email textbox
+[INFO ] [2021-07-14 14:53:43,182] User_02_Login - Step 03: Enter to Password
+[INFO ] [2021-07-14 14:53:43,273] User_02_Login - Step 04: Click to Login button
+[INFO ] [2021-07-14 14:53:44,881] User_02_Login - Step 05: Verify Myaccount Link displayed
+[INFO ] [2021-07-14 14:53:44,966]  -------------------------- FAILED -------------------------- 
+[INFO ] [2021-07-14 14:53:45,179] Post-condition - Step 01: Close browser/driver
+[INFO ] [2021-07-14 15:21:52,544] Pre-condition - Step 1: Open Browser: 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-07-15 22:34:48,847] Pre-condition - Step 1: Open Browser: 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-07-15 22:35:40,398] User_01_Register - Step 01: Mo trang Homepage
+[INFO ] [2021-07-15 22:35:40,422] User_01_Register - Step 02: Click to Register Link
+[INFO ] [2021-07-15 22:35:44,961] User_01_Register - Step 03: Enter to first Textbox
+[INFO ] [2021-07-15 22:35:45,418] User_01_Register - Step 04: Enter to Lastname Textbox
+[INFO ] [2021-07-15 22:35:45,579] User_01_Register - Step 05: Enter to Email TextboxMessi55735@barca.com
+[INFO ] [2021-07-15 22:35:45,694] User_01_Register - Step 06: Enter to Password
+[INFO ] [2021-07-15 22:35:45,823] User_01_Register - Step 07: Enter to Confirm password
+[INFO ] [2021-07-15 22:35:45,924] User_01_Register - Step 08: Click to Register Button
+[INFO ] [2021-07-15 22:35:50,551] User_01_Register - Step 09: Verify Success Message Displayed
+[INFO ] [2021-07-15 22:35:50,620]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-07-15 22:35:50,622] User_01_Register - Step 10: Click to Logout Link
+[INFO ] [2021-07-15 22:35:54,186] User_02_Login - Step 01: Click to Login Link
+[INFO ] [2021-07-15 22:35:56,826] User_02_Login - Step 02: Enter to Email textbox
+[INFO ] [2021-07-15 22:35:57,218] User_02_Login - Step 03: Enter to Password
+[INFO ] [2021-07-15 22:37:01,451] Pre-condition - Step 1: Open Browser: 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-07-15 22:37:14,495] User_01_Register - Step 01: Mo trang Homepage
+[INFO ] [2021-07-15 22:37:14,498] User_01_Register - Step 02: Click to Register Link
+[INFO ] [2021-07-15 22:37:17,633] User_01_Register - Step 03: Enter to first Textbox
+[INFO ] [2021-07-15 22:37:17,752] User_01_Register - Step 04: Enter to Lastname Textbox
+[INFO ] [2021-07-15 22:37:17,863] User_01_Register - Step 05: Enter to Email TextboxMessi55229@barca.com
+[INFO ] [2021-07-15 22:37:17,982] User_01_Register - Step 06: Enter to Password
+[INFO ] [2021-07-15 22:37:18,109] User_01_Register - Step 07: Enter to Confirm password
+[INFO ] [2021-07-15 22:37:18,216] User_01_Register - Step 08: Click to Register Button
+[INFO ] [2021-07-15 22:37:21,001] User_01_Register - Step 09: Verify Success Message Displayed
+[INFO ] [2021-07-15 22:37:21,079]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-07-15 22:37:21,082] User_01_Register - Step 10: Click to Logout Link
+[INFO ] [2021-07-15 22:37:26,322] User_02_Login - Step 01: Click to Login Link
+[INFO ] [2021-07-15 22:37:27,405] User_02_Login - Step 02: Enter to Email textbox
+[INFO ] [2021-07-15 22:37:28,557] Post-condition - Step 01: Close browser/driver+ firefox
+[INFO ] [2021-07-15 22:37:28,557] OS name = windows 10
+[INFO ] [2021-07-15 22:37:28,565] Tried to run command without establishing a connection
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-CPNL6G4', ip: '192.168.100.11', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_271'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 89.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210622155641, moz:geckodriverVersion: 0.29.0, moz:headless: false, moz:processID: 7180, moz:profile: C:\Users\vailu\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 5a202df9-f46e-4724-bc15-3b5275333878
+[INFO ] [2021-07-15 22:40:43,848] Pre-condition - Step 1: Open Browser: 'chrome' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-07-15 22:40:43,848] Pre-condition - Step 1: Open Browser: 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-07-15 22:40:59,317] User_01_Register - Step 01: Mo trang Homepage
+[INFO ] [2021-07-15 22:40:59,334] User_01_Register - Step 02: Click to Register Link
+[INFO ] [2021-07-15 22:40:59,628] User_01_Register - Step 01: Mo trang Homepage
+[INFO ] [2021-07-15 22:40:59,629] User_01_Register - Step 02: Click to Register Link
+[INFO ] [2021-07-15 22:41:00,990] User_01_Register - Step 03: Enter to first Textbox
+[INFO ] [2021-07-15 22:41:01,135] User_01_Register - Step 04: Enter to Lastname Textbox
+[INFO ] [2021-07-15 22:41:01,244] User_01_Register - Step 05: Enter to Email TextboxMessi88191@barca.com
+[INFO ] [2021-07-15 22:41:01,365] User_01_Register - Step 06: Enter to Password
+[INFO ] [2021-07-15 22:41:01,489] User_01_Register - Step 07: Enter to Confirm password
+[INFO ] [2021-07-15 22:41:01,596] User_01_Register - Step 08: Click to Register Button
+[INFO ] [2021-07-15 22:41:03,653] User_01_Register - Step 09: Verify Success Message Displayed
+[INFO ] [2021-07-15 22:41:03,764]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-07-15 22:41:03,767] User_01_Register - Step 10: Click to Logout Link
+[INFO ] [2021-07-15 22:41:04,432] User_01_Register - Step 03: Enter to first Textbox
+[INFO ] [2021-07-15 22:41:04,787] User_01_Register - Step 04: Enter to Lastname Textbox
+[INFO ] [2021-07-15 22:41:04,968] User_01_Register - Step 05: Enter to Email TextboxMessi82064@barca.com
+[INFO ] [2021-07-15 22:41:05,412] User_01_Register - Step 06: Enter to Password
+[INFO ] [2021-07-15 22:41:05,591] User_01_Register - Step 07: Enter to Confirm password
+[INFO ] [2021-07-15 22:41:05,779] User_01_Register - Step 08: Click to Register Button
+[INFO ] [2021-07-15 22:41:06,289] User_02_Login - Step 01: Click to Login Link
+[INFO ] [2021-07-15 22:41:06,816] User_02_Login - Step 02: Enter to Email textbox
+[INFO ] [2021-07-15 22:41:06,947] User_02_Login - Step 03: Enter to Password
+[INFO ] [2021-07-15 22:41:07,051] User_02_Login - Step 04: Click to Login button
+[INFO ] [2021-07-15 22:41:07,879] User_02_Login - Step 05: Verify Myaccount Link displayed
+[INFO ] [2021-07-15 22:41:07,990]  -------------------------- FAILED -------------------------- 
+[INFO ] [2021-07-15 22:41:08,356] Post-condition - Step 01: Close browser/driver+ firefox
+[INFO ] [2021-07-15 22:41:08,358] OS name = windows 10
+[INFO ] [2021-07-15 22:41:10,044] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-07-15 22:41:11,049] User_01_Register - Step 09: Verify Success Message Displayed
+[INFO ] [2021-07-15 22:41:11,161]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-07-15 22:41:11,161] User_01_Register - Step 10: Click to Logout Link
+[INFO ] [2021-07-15 22:41:14,327] User_02_Login - Step 01: Click to Login Link
+[INFO ] [2021-07-15 22:41:16,578] User_02_Login - Step 02: Enter to Email textbox
+[INFO ] [2021-07-15 22:41:16,827] User_02_Login - Step 03: Enter to Password
+[INFO ] [2021-07-15 22:41:17,031] User_02_Login - Step 04: Click to Login button
+[INFO ] [2021-07-15 22:41:18,644] User_02_Login - Step 05: Verify Myaccount Link displayed
+[INFO ] [2021-07-15 22:41:18,783]  -------------------------- FAILED -------------------------- 
+[INFO ] [2021-07-15 22:41:19,105] Post-condition - Step 01: Close browser/driver+ chrome
+[INFO ] [2021-07-15 22:41:19,105] OS name = windows 10
+[INFO ] [2021-07-15 22:41:20,116] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-07-15 22:41:40,560] Pre-condition - Step 1: Open Browser: 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-07-15 22:41:40,560] Pre-condition - Step 1: Open Browser: 'chrome' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-07-15 22:41:49,857] User_01_Register - Step 01: Mo trang Homepage
+[INFO ] [2021-07-15 22:41:49,860] User_01_Register - Step 02: Click to Register Link
+[INFO ] [2021-07-15 22:41:53,318] User_01_Register - Step 01: Mo trang Homepage
+[INFO ] [2021-07-15 22:41:53,318] User_01_Register - Step 02: Click to Register Link
+[INFO ] [2021-07-15 22:41:53,716] User_01_Register - Step 03: Enter to first Textbox
+[INFO ] [2021-07-15 22:41:53,984] User_01_Register - Step 04: Enter to Lastname Textbox
+[INFO ] [2021-07-15 22:41:54,169] User_01_Register - Step 05: Enter to Email TextboxMessi26765@barca.com
+[INFO ] [2021-07-15 22:41:54,372] User_01_Register - Step 06: Enter to Password
+[INFO ] [2021-07-15 22:41:54,553] User_01_Register - Step 07: Enter to Confirm password
+[INFO ] [2021-07-15 22:41:54,792] User_01_Register - Step 08: Click to Register Button
+[INFO ] [2021-07-15 22:41:54,884] User_01_Register - Step 03: Enter to first Textbox
+[INFO ] [2021-07-15 22:41:55,005] User_01_Register - Step 04: Enter to Lastname Textbox
+[INFO ] [2021-07-15 22:41:55,116] User_01_Register - Step 05: Enter to Email TextboxMessi31433@barca.com
+[INFO ] [2021-07-15 22:41:55,231] User_01_Register - Step 06: Enter to Password
+[INFO ] [2021-07-15 22:41:55,333] User_01_Register - Step 07: Enter to Confirm password
+[INFO ] [2021-07-15 22:41:55,444] User_01_Register - Step 08: Click to Register Button
+[INFO ] [2021-07-15 22:41:57,729] User_01_Register - Step 09: Verify Success Message Displayed
+[INFO ] [2021-07-15 22:41:57,764] User_01_Register - Step 09: Verify Success Message Displayed
+[INFO ] [2021-07-15 22:41:57,897]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-07-15 22:41:57,901] User_01_Register - Step 10: Click to Logout Link
+[INFO ] [2021-07-15 22:41:57,910]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-07-15 22:41:57,910] User_01_Register - Step 10: Click to Logout Link
+[INFO ] [2021-07-15 22:41:59,635] User_02_Login - Step 01: Click to Login Link
+[INFO ] [2021-07-15 22:42:00,407] User_02_Login - Step 02: Enter to Email textbox
+[INFO ] [2021-07-15 22:42:00,563] User_02_Login - Step 03: Enter to Password
+[INFO ] [2021-07-15 22:42:00,814] User_02_Login - Step 04: Click to Login button
+[INFO ] [2021-07-15 22:42:02,255] Post-condition - Step 01: Close browser/driver+ firefox
+[INFO ] [2021-07-15 22:42:02,255] OS name = windows 10
+[INFO ] [2021-07-15 22:42:02,273] Tried to run command without establishing a connection
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-CPNL6G4', ip: '192.168.100.11', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_271'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 89.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210622155641, moz:geckodriverVersion: 0.29.0, moz:headless: false, moz:processID: 9220, moz:profile: C:\Users\vailu\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 035c925d-8faa-451a-bcf6-27bad872a65a
+[INFO ] [2021-07-15 22:42:02,977] User_02_Login - Step 01: Click to Login Link
+[INFO ] [2021-07-15 22:42:05,282] User_02_Login - Step 02: Enter to Email textbox
+[INFO ] [2021-07-15 22:42:05,460] User_02_Login - Step 03: Enter to Password
+[INFO ] [2021-07-15 22:42:05,627] User_02_Login - Step 04: Click to Login button
+[INFO ] [2021-07-15 22:42:30,589] Post-condition - Step 01: Close browser/driver+ chrome
+[INFO ] [2021-07-15 22:42:30,590] OS name = windows 10
+[INFO ] [2021-07-15 22:42:42,783] chrome not reachable
+  (Session info: chrome=91.0.4472.124)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-CPNL6G4', ip: '192.168.100.11', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_271'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\vailu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:54502}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 1b440a92236e423205aa3d68068470cf
+[INFO ] [2021-07-16 11:40:05,399] Pre-condition - Step 1: Open Browser: 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-07-16 11:40:18,053] User_01_Register - Step 01: Mo trang Homepage
+[INFO ] [2021-07-16 11:40:18,053] User_01_Register - Step 02: Click to Register Link
+[INFO ] [2021-07-16 11:40:21,098] User_01_Register - Step 03: Enter to first Textbox
+[INFO ] [2021-07-16 11:40:21,203] User_01_Register - Step 04: Enter to Lastname Textbox
+[INFO ] [2021-07-16 11:40:21,312] User_01_Register - Step 05: Enter to Email TextboxMessi93377@barca.com
+[INFO ] [2021-07-16 11:40:21,429] User_01_Register - Step 06: Enter to Password
+[INFO ] [2021-07-16 11:40:21,523] User_01_Register - Step 07: Enter to Confirm password
+[INFO ] [2021-07-16 11:40:21,619] User_01_Register - Step 08: Click to Register Button
+[INFO ] [2021-07-16 11:40:24,695] User_01_Register - Step 09: Verify Success Message Displayed
+[INFO ] [2021-07-16 11:40:24,780]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-07-16 11:40:24,780] User_01_Register - Step 10: Click to Logout Link
+[INFO ] [2021-07-16 11:40:28,262] User_02_Login - Step 01: Click to Login Link
+[INFO ] [2021-07-16 11:40:30,569] User_02_Login - Step 02: Enter to Email textbox
+[INFO ] [2021-07-16 11:40:30,688] User_02_Login - Step 03: Enter to Password
+[INFO ] [2021-07-16 11:40:30,797] User_02_Login - Step 04: Click to Login button
+[INFO ] [2021-07-16 11:40:33,632] User_02_Login - Step 05: Verify Myaccount Link displayed
+[INFO ] [2021-07-16 11:40:33,749]  -------------------------- FAILED -------------------------- 
+[INFO ] [2021-07-16 11:40:34,078] Post-condition - Step 01: Close browser/driver+ firefox
+[INFO ] [2021-07-16 11:40:34,078] OS name = windows 10
+[INFO ] [2021-07-16 11:40:35,708] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-07-16 11:41:47,284] Pre-condition - Step 01: Open Browser: 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-07-16 11:41:57,664] Pre-condition  - Step 02: Click to Login Link
+[INFO ] [2021-07-16 11:47:29,514] Pre-condition - Step 01: Open Browser: 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-07-16 11:47:40,919] Pre-condition  - Step 02: Click to Login Link
+[INFO ] [2021-07-16 11:47:43,469] Pre-condition  - Step 03: Set login page cookies
+[INFO ] [2021-07-16 11:47:51,821] Pre-condition  - Step 04: Verify Homepage is displayed
+[INFO ] [2021-07-16 11:47:52,037] Post-condition - Step 01: Close browser/driver+ firefox
+[INFO ] [2021-07-16 11:47:52,037] OS name = windows 10
+[INFO ] [2021-07-16 11:47:53,452] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-07-16 11:54:13,663] Pre-condition - Step 01: Open Browser: 'firefox' and navigate to 'https://demo.nopcommerce.com/'
+[INFO ] [2021-07-16 11:54:23,149] Pre-condition  - Step 02: Click to Login Link
+[INFO ] [2021-07-16 11:54:24,421] Pre-condition  - Step 03: Set login page cookies
+[INFO ] [2021-07-16 11:54:31,017] Pre-condition  - Step 04: Click to HomePage logo
+[INFO ] [2021-07-16 11:54:32,404] Pre-condition  - Step 04: Verify Homepage is displayed
+[INFO ] [2021-07-16 11:54:32,700] Post-condition - Step 01: Close browser/driver+ firefox
+[INFO ] [2021-07-16 11:54:32,701] OS name = windows 10
+[INFO ] [2021-07-16 11:54:34,242] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-07-19 08:28:19,010]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-07-19 08:28:25,988]  -------------------------- FAILED -------------------------- 
+[INFO ] [2021-07-19 09:47:38,341]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-07-19 09:47:43,431]  -------------------------- PASSED -------------------------- 

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Run on firefox"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="18.879">
+  <properties />
+  
+  
+            <testcase name="User_01_Register" time="12.068" classname="com.nopcommerce.user.Level_15_Register_Login_Pattern_Object" />
+                <testcase name="User_02_Login" time="6.811" classname="com.nopcommerce.user.Level_15_Register_Login_Pattern_Object" />
+      
+</testsuite>
